@@ -17,6 +17,7 @@
     <string name="pref_max_focus_value_key">10.0</string>
     <string name="cw_rg_key_2">0.5925</string>
     <string name="cw_rg_key_4">0.5925</string>
+    <string name="pref_switch_to_previous_mode_command_string">71</string>
     <string name="cw_rg_key_3">0.5925</string>
     <string name="cw_rg_key_5">0.5925</string>
     <string name="pref_input_patcher_values_8_key_3"></string>
@@ -50,6 +51,7 @@
     <string name="pref_JPG_Quality_key">0</string>
     <string name="pref_satCCT_R_4_key">1.0</string>
     <string name="pref_Zipper_3_key_2">0</string>
+    <string name="pref_camera_hdr_plus_back_flashmode_thermally_disabled_key">0</string>
     <string name="pref_raw_key_wide">0</string>
     <string name="pref_input_patcher_address_5_key"></string>
     <string name="pref_color_key">0</string>
@@ -76,6 +78,7 @@
     <string name="pref_input_patcher_values_4_key"></string>
     <string name="pref_Zipper_3_key_3">0</string>
     <string name="pref_Zipper_3_key_4">0</string>
+    <string name="pref_camera_raw_output_option_available_key">0</string>
     <string name="pref_High_light_fix_key_front">0</string>
     <string name="gr_3_key">-0.148</string>
     <string name="pref_input_descriptions_1_key_front"></string>
@@ -98,6 +101,7 @@
     <string name="br_4_key">0.119</string>
     <string name="pref_Sabre_Luma_Denoise_High_L5_key">0</string>
     <string name="pref_manualVideo_resoWidth_key">4320</string>
+    <string name="pref_has_shown_longp_education">0</string>
     <string name="pref_input_patcher_address_10_key_2"></string>
     <string name="pref_input_patcher_address_10_key_3"></string>
     <string name="pref_input_patcher_address_10_key_4"></string>
@@ -155,6 +159,7 @@
     <string name="pref_manualVideo_resoWidth_key_4">4320</string>
     <string name="pref_libs">0</string>
     <string name="pref_manualVideo_resoWidth_key_5">4320</string>
+    <string name="pref_switch_to_next_mode_command_string">72</string>
     <string name="pref_manualVideo_resoWidth_key_2">4320</string>
     <string name="pref_manualVideo_resoWidth_key_3">4320</string>
     <string name="pref_Sabre_Luma_Denoise_Med_L3_key_5">0</string>
@@ -171,6 +176,7 @@
     <string name="cw_bg_key_2">0.38687</string>
     <string name="pref_satCCT_B_5_key">1.0</string>
     <string name="pref_input_patcher_values_2_key"></string>
+    <string name="pref_update_available_chip_dismissal_times">0</string>
     <string name="pref_Volume_Processing_1_key_front">0</string>
     <string name="pref_slowmo_fps_key_front">0</string>
     <string name="pref_input_patcher_address_2_key_3"></string>
@@ -257,10 +263,12 @@
     <string name="pref_Max_overall_gain_ISO_limit_key_3">0</string>
     <string name="pref_Max_overall_gain_ISO_limit_key_2">0</string>
     <string name="pref_operation_mode_portrait_key_front">0</string>
+    <int name="tooltip_impression_count_for_catshark_agency_tooltip" value="1" />
     <string name="pref_Suppress_Hot_Pixels_key_3">0</string>
     <string name="pref_Suppress_Hot_Pixels_key_2">0</string>
     <string name="pref_Suppress_Hot_Pixels_key_5">0</string>
     <string name="pref_Suppress_Hot_Pixels_key_4">0</string>
+    <string name="pref_upgrade_version">24</string>
     <string name="pref_Sabre_Luma_Denoise_High_L2B_key_4">0</string>
     <string name="pref_Sabre_Luma_Denoise_High_L2B_key_5">0</string>
     <string name="pref_input_descriptions_8_key_2"></string>
@@ -296,6 +304,7 @@
     <string name="pref_mf_far_key">1.52</string>
     <string name="pref_input_descriptions_18_key_4"></string>
     <string name="pref_input_descriptions_18_key_2"></string>
+    <string name="pref_camera_single_shot_sound_key">0</string>
     <string name="pref_frames_hdr_4th_key">-1</string>
     <string name="pref_input_patcher_address_15_key_4"></string>
     <string name="pref_input_patcher_address_15_key_3"></string>
@@ -421,6 +430,7 @@
     <string name="pref_sharp_gain_micro_polysharp_d_key_4">0</string>
     <string name="pref_sharp_gain_micro_polysharp_d_key_5">0</string>
     <string name="pref_satCCT_G_3_key">1.0</string>
+    <string name="pref_has_checked_lens_mode">0</string>
     <string name="red_key_wide">1.0</string>
     <string name="CCT_WB_intensity_main_key">1.0</string>
     <string name="CCT_WB_intensity_front_key">1.0</string>
@@ -445,10 +455,12 @@
     <string name="pref_dehaze_strength_factor_key_front">0</string>
     <string name="pref_input_patcher_address_9_key_2"></string>
     <string name="pref_input_patcher_address_9_key_3"></string>
+    <string name="pref_has_checked_cheetah_mode">0</string>
     <string name="pref_Volume_Processing_2_key_front">0</string>
     <string name="pref_input_patcher_address_9_key_4"></string>
     <string name="pref_input_patcher_address_9_key_5"></string>
     <string name="pref_contrast_2_key">0</string>
+    <string name="pref_mode_vesper_level">0</string>
     <string name="pref_noise_modeler_manual_a_3_key_5">1.0785347E-5</string>
     <string name="pref_noise_modeler_manual_a_3_key_2">1.0785347E-5</string>
     <string name="pref_noise_modeler_manual_a_3_key_4">1.0785347E-5</string>
@@ -476,6 +488,7 @@
     <string name="pref_input_descriptions_16_key"></string>
     <string name="rg_0_key">-0.94</string>
     <string name="gg_0_key">1.063</string>
+    <string name="perf_has_shown_options_bar">1</string>
     <string name="pref_custom_operation_mode_video_key_2">0</string>
     <string name="pref_custom_operation_mode_video_key_3">0</string>
     <string name="pref_custom_operation_mode_video_key_4">0</string>
@@ -501,6 +514,7 @@
     <string name="pref_input_patcher_values_11_key_front"></string>
     <string name="pref_Sabre_Contrast_Sharp_key_front">0</string>
     <string name="pref_Sabre_Luma_Denoise_Low_L3B_key_2">0</string>
+    <string name="perf_has_run_first_education">1</string>
     <string name="pref_noise_modeler_manual_d_0_key_front">1.9878738E-12</string>
     <string name="pref_Sabre_Luma_Denoise_Low_L3B_key_5">0</string>
     <string name="pref_Sabre_Luma_Denoise_Low_L3B_key_3">0</string>
@@ -527,11 +541,13 @@
     <string name="pref_DiscardFrames_WithLowestScore_key">0</string>
     <string name="pref_slowmo_fps_key_tele">0</string>
     <string name="bg_1_key">-0.914</string>
+    <string name="pref_imax_audio_enabled_key">0</string>
     <string name="pref_noise_model_main_key">0</string>
     <string name="pref_Sabre_Luma_Denoise_Med_L3A_key_5">0</string>
     <string name="pref_hfraudioCodec1_key">1</string>
     <string name="pref_Sabre_Luma_Denoise_Med_L3A_key_4">0</string>
     <string name="pref_highlight_compensation_key_front">0</string>
+    <string name="pref_has_checked_ornament_mode">0</string>
     <string name="pref_satCCT_B_front_key">1.0</string>
     <string name="pref_Sabre_Luma_Denoise_Med_L3A_key_3">0</string>
     <string name="pref_getfrontid_stringentries_key">Manual,Auto,&#10;Camera ID= 1   (physical)&#10;Focal length= 3.3mm&#10;Aperture= f/2.2&#10;Angle= 80°&#10;Sensitivity range= 50 - 3200&#10;Ae compensation range= -20 - 20&#10;Pixel size= 1.12µm&#10;35mm eqv focal length= 26.517857mm&#10;Flash= Flash&#10;Hardware level= 1 (full),&#10;Camera ID= 3   (physical)&#10;Focal length= 3.3mm&#10;Aperture= f/2.2&#10;Angle= 71°&#10;Sensitivity range= 50 - 3200&#10;Ae compensation range= -20 - 20&#10;Pixel size= 1.12µm&#10;35mm eqv focal length= 31.271057mm&#10;Flash= Flash&#10;Hardware level= 1 (full),</string>
@@ -553,6 +569,7 @@
     <string name="pref_operation_mode_night_key_5">0</string>
     <string name="pref_input_patcher_address_5_key_5"></string>
     <string name="pref_operation_mode_night_key_2">0</string>
+    <string name="pref_link_first_time_chip_click_ms">0</string>
     <string name="pref_input_patcher_address_5_key_4"></string>
     <string name="pref_mf_near_key">14.29</string>
     <string name="pref_Sabre_Luma_Denoise_Med_L1_key_2">0</string>
@@ -633,6 +650,7 @@
     <string name="pref_input_patcher_values_9_key_front"></string>
     <string name="pref_noise_modeler_manual_a_2_key_5">1.0785347E-5</string>
     <string name="pref_noise_modeler_manual_a_2_key_4">1.0785347E-5</string>
+    <string name="pref_camera_picturesize_back_key">4080x3060</string>
     <string name="pref_noise_modeler_manual_a_2_key_3">1.0785347E-5</string>
     <string name="pref_noise_modeler_manual_a_2_key_2">1.0785347E-5</string>
     <string name="pref_input_patcher_address_13_key_front"></string>
@@ -688,6 +706,7 @@
     <string name="pref_frames_hdr_key">-1</string>
     <string name="pref_input_patcher_values_20_key"></string>
     <string name="tf_af_key">0</string>
+    <string name="pref_has_checked_measure_mode">0</string>
     <string name="pref_date_key">yyyyMMdd_HHmmssSSS</string>
     <string name="pref_noise_modeler_manual_c_3_key_front">-8.484603E-8</string>
     <string name="h_bg_key">0.27259</string>
@@ -707,6 +726,7 @@
     <string name="pref_noise_modeler_manual_a_0_key_3">4.9889366E-7</string>
     <string name="pref_noise_modeler_manual_a_0_key_2">4.9889366E-7</string>
     <string name="pref_input_patcher_address_15_key_front"></string>
+    <long name="tooltip_latest_impression_timestamp_for_catshark_agency_tooltip" value="1683970601582" />
     <string name="prefix_key">SGCAM_</string>
     <string name="br_1_key">0.119</string>
     <string name="pref_noise_model_tele_key">0</string>
@@ -749,6 +769,7 @@
     <string name="pref_input_patcher_values_8_key"></string>
     <string name="pref_Sabre_Luma_Denoise_High_L3A_key_2">0</string>
     <string name="h_rg_key_front">1.07277</string>
+    <string name="pref_exposure_control_key">1</string>
     <string name="pref_device_key_front">0</string>
     <string name="pref_Luma_Denoise_Outlier_Threshold_Factor_A_Temporal_key_front">0</string>
     <string name="d75_bg_key">0.6526</string>
@@ -768,12 +789,14 @@
         <string>21</string>
         <string>54</string>
     </set>
+    <string name="pref_has_checked_tiara_mode">0</string>
     <string name="pref_Smoothing_the_sabre_key_front">0</string>
     <string name="pref_manual_exposure_time_key_id4">32.0</string>
     <string name="pref_manual_exposure_time_key_id5">32.0</string>
     <string name="pref_Sabre_Luma_Denoise_High_L3B_key_5">0</string>
     <string name="pref_Smoothing_the_sabre_key">0</string>
     <string name="pref_Sabre_Luma_Denoise_High_L3B_key_2">0</string>
+    <string name="pref_camera_cd_indicator_enabled_key">1</string>
     <string name="pref_Sabre_Luma_Denoise_High_L3B_key_4">0</string>
     <string name="pref_Sabre_Luma_Denoise_High_L3B_key_3">0</string>
     <string name="pref_Sabre_Luma_Denoise_High_L3_key">0</string>
@@ -822,7 +845,9 @@
     <string name="pref_input_patcher_address_20_key"></string>
     <string name="pref_merge_key_wide">0</string>
     <string name="pref_Noise_Model_Unblock_key">0</string>
+    <string name="pref_camera_advice_settings">1</string>
     <string name="pref_input_patcher_address_6_key"></string>
+    <string name="pref_has_checked_lasagna_mode">0</string>
     <string name="pref_Sabre_Luma_Denoise_High_L4_key">0</string>
     <string name="pref_Sabre_Luma_Denoise_High_L3_key_front">0</string>
     <string name="pref_noise_modeler_manual_a_2_key_front">1.0785347E-5</string>
@@ -925,6 +950,7 @@
     <string name="pref_audio_zoom_key">1</string>
     <string name="pref_Sabre_Luma_Denoise_Med_L2A_key_2">0</string>
     <string name="pref_input_patcher_values_11_key_4"></string>
+    <string name="pref_zoom_in_command_string">19</string>
     <string name="pref_input_patcher_values_11_key_3"></string>
     <string name="pref_dbl_key_front">0</string>
     <string name="pref_input_patcher_values_11_key_2"></string>
@@ -946,6 +972,7 @@
     <string name="pref_input_patcher_address_6_key_3"></string>
     <string name="pref_input_patcher_address_6_key_5"></string>
     <string name="pref_device_key_id5">0</string>
+    <string name="pref_camera_enable_iris">1</string>
     <string name="pref_device_key_id4">0</string>
     <string name="pref_model_key_front">0</string>
     <string name="rg_4_key">-0.94</string>
@@ -987,6 +1014,7 @@
     <string name="pref_input_patcher_address_19_key"></string>
     <string name="pref_Sabre_Luma_Denoise_Low_L4B_key_front">0</string>
     <string name="pref_getlivehdr_key">0</string>
+    <string name="pref_switch_camera_command_string">47</string>
     <string name="pref_input_patcher_address_10_key"></string>
     <string name="a_rg_key_2">0.87653</string>
     <string name="a_rg_key_3">0.87653</string>
@@ -1030,6 +1058,7 @@
     <string name="pref_input_descriptions_2_key_4"></string>
     <string name="pref_input_descriptions_2_key_5"></string>
     <string name="pref_hfrvideoFrameRate_key">240</string>
+    <string name="pref_shutter_command_string">66</string>
     <string name="pref_manualVideo_resoHeight_key_4">7680</string>
     <string name="pref_manualVideo_resoHeight_key_3">7680</string>
     <string name="pref_manualVideo_resoHeight_key_5">7680</string>
@@ -1069,6 +1098,7 @@
     <string name="pref_High_light_fix_key_5">0</string>
     <string name="gg_5_key">1.063</string>
     <string name="pref_input_patcher_address_2_key_front"></string>
+    <string name="pref_double_tap_launch_edu_count">1</string>
     <string name="pref_input_patcher_values_7_key_front"></string>
     <string name="pref_global_hue_2_key">0</string>
     <string name="pref_Sabre_Sharp_2_key_front">0</string>
@@ -1142,6 +1172,7 @@
     <string name="pref_black_level_key_front">0</string>
     <string name="pref_Sabre_Luma_Denoise_High_L2_key_front">0</string>
     <string name="pref_audioSampleRate_key">48000</string>
+    <string name="pref_af_mode_back">0</string>
     <string name="pref_Sabre_Luma_Denoise_High_L2A_key_front">0</string>
     <string name="pref_Luma_Denoise_Revert_Factor_B_Spatial_key_2">0</string>
     <string name="pref_Luma_Denoise_Revert_Factor_B_Spatial_key_4">0</string>
@@ -1173,6 +1204,7 @@
     <string name="green_key_id5">1.0</string>
     <string name="d65_rg_key_3">0.48314</string>
     <string name="d65_rg_key_2">0.48314</string>
+    <string name="pref_release_dialog_last_shown_version"></string>
     <string name="gb_3_key">0.086</string>
     <string name="pref_Sabre_Luma_Denoise_Med_L5A_key_5">0</string>
     <string name="pref_Sabre_Luma_Denoise_Med_L5A_key_4">0</string>
@@ -1245,6 +1277,7 @@
     <string name="pref_TET_Factor_tuning_key_2">0</string>
     <string name="pref_TET_Factor_tuning_key_3">0</string>
     <string name="pref_Sabre_Luma_Denoise_Low_L2B_key_3">0</string>
+    <string name="perf_has_run_second_education">0</string>
     <string name="pref_Sabre_Luma_Denoise_Low_L2B_key_2">0</string>
     <string name="pref_Sabre_Luma_Denoise_Low_L2B_key_5">0</string>
     <string name="pref_Sabre_Luma_Denoise_Low_L2B_key_4">0</string>
@@ -1263,6 +1296,8 @@
     <string name="pref_Sabre_Luma_Denoise_Med_L1A_key">0</string>
     <string name="gg_1_key">1.063</string>
     <string name="pref_InitParams_ExecuteFinishOn_key">0</string>
+    <string name="key_promote_launch_wear">0</string>
+    <string name="pref_last_installed_version_code">66263539</string>
     <string name="pref_operation_mode_video_key">0</string>
     <string name="pref_Sabre_Luma_Denoise_High_L5A_key_front">0</string>
     <string name="pref_awb_main_key">0</string>
@@ -1334,6 +1369,7 @@
     <string name="pref_input_patcher_values_6_key_4"></string>
     <string name="pref_8xslowmotion_key">0</string>
     <string name="pref_smoothing_new_key_front">0</string>
+    <string name="pref_mode_vesperad_option">0</string>
     <string name="pref_input_patcher_address_1_key_front"></string>
     <string name="pref_noise_modeler_manual_d_3_key_5">-8.484603E-8</string>
     <string name="pref_noise_modeler_manual_d_3_key_4">-8.484603E-8</string>
@@ -1396,8 +1432,10 @@
     <string name="pref_Sabre_Luma_Denoise_High_L5A_key_4">0</string>
     <string name="pref_input_descriptions_17_key_2"></string>
     <string name="pref_Sabre_Luma_Denoise_High_L5A_key_5">0</string>
+    <string name="pref_has_checked_dual_ev_brightness">0</string>
     <string name="pref_device_key_tele">0</string>
     <string name="pref_input_descriptions_17_key"></string>
+    <string name="pref_camera_picturesize_front_key">4000x3000</string>
     <string name="pref_input_descriptions_2_key"></string>
     <string name="pref_focus_value_key">100.0</string>
     <string name="pref_Blur_preview_key_2">0</string>
@@ -1453,6 +1491,7 @@
     <string name="pref_input_descriptions_13_key_2"></string>
     <string name="pref_input_descriptions_13_key_3"></string>
     <string name="pref_Sabre_Luma_Denoise_High_L1B_key_2">0</string>
+    <string name="pref_storage_saver_auto_disable">0</string>
     <string name="pref_input_patcher_values_20_key_2"></string>
     <string name="tl84_rg_key">0.66994</string>
     <string name="pref_input_descriptions_17_key_front"></string>
@@ -1480,6 +1519,7 @@
     <string name="pref_noise_modeler_manual_b_3_key_front">1.0785347E-5</string>
     <string name="bl0_key_id5">64</string>
     <string name="pref_livehdrmetering_key">0</string>
+    <string name="pref_has_checked_dual_ev_shadow">0</string>
     <string name="pref_Big_sharp_sharp_macro_key_front">0</string>
     <string name="pref_input_descriptions_3_key_4"></string>
     <string name="pref_input_descriptions_3_key_3"></string>
@@ -1551,6 +1591,7 @@
     <string name="pref_Sabre_Luma_Denoise_Med_L4A_key_3">0</string>
     <string name="pref_contrast_black_key_5">0</string>
     <string name="pref_Sabre_Luma_Denoise_Med_L4A_key_4">0</string>
+    <string name="pref_af_mode_front">0</string>
     <string name="pref_Sabre_Luma_Denoise_Med_L4A_key_2">0</string>
     <string name="pref_black_level_key_tele">0</string>
     <string name="pref_input_patcher_values_9_key_2"></string>
@@ -1575,6 +1616,7 @@
     <string name="pref_Shasta_Force_key_2">0</string>
     <string name="CCT_WB_Offset_2_key">1.0</string>
     <string name="pref_operation_mode_portrait_key">0</string>
+    <string name="pref_zoom_out_command_string">20</string>
     <string name="pref_Sabre_Luma_Denoise_Low_L5_key_front">0</string>
     <string name="pref_Luma_Denoise_Strength_Factor_A_key">0</string>
     <string name="pref_input_patcher_address_9_key"></string>
@@ -1629,6 +1671,7 @@
     <string name="pref_manualVideo_resoHeight_key">7680</string>
     <string name="pref_Sabre_Luma_Denoise_Med_L1A_key_2">0</string>
     <string name="pref_input_patcher_values_4_key_5"></string>
+    <string name="pref_mars_enabled">0</string>
     <string name="videoprefix_key">SGCAM_</string>
     <string name="pref_Zipper_3_key_front">0</string>
     <string name="pref_noise_modeler_manual_d_0_key">1.9878738E-12</string>
